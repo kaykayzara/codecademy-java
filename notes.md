@@ -10,3 +10,4 @@ To push an update to GitHub repo:
     - git push -u origin main
 
 **push must occur in the same directory and folder as the project**
+
